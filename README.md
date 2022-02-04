@@ -1,4 +1,4 @@
-# servers-hw
+# my-express-server hw
 
 ## What is it? 
 A server that responds with random numbers. This is intended to be an exercise in creating a server using Express JS. A version in HTTP is also available.
